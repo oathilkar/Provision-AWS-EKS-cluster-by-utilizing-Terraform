@@ -1,0 +1,5 @@
+terraform-eks/
+├── main.tf
+├── variables.tf
+├── outputs.tf
+└── providers.tf
